@@ -1,0 +1,7 @@
+﻿  MainGameLoop.cpp
+C:\Users\takot.000\Documents\Intro to Programming\Keywords 2\Keywords 2\MainGameLoop.cpp(42,31): warning C4018: '<': signed/unsigned mismatch
+  MistakeCheck.cpp
+  Source.cpp
+C:\Users\takot.000\Documents\Intro to Programming\Keywords 2\Keywords 2\Source.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Keywords 2.vcxproj -> C:\Users\takot.000\Documents\Intro to Programming\Keywords 2\Debug\Keywords 2.exe
